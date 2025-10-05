@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- Ensure groupId, artifactId, and version are properly set -->
+  <groupId>com.example</groupId> <!-- Replace with your domain -->
+  <artifactId>HMS</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+
+  <name>HMS Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+
+  <dependencies>
+    <!-- MySQL Connector for database connection -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.30</version>
+    </dependency>
+
+    <!-- JUnit for testing -->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.2</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <finalName>HMS</finalName>
+    <plugins>
+      <!-- Maven WAR Plugin -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.2.3</version>
+        <configuration>
+          <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="368cf469-a7ae-4650-8e89-18087f3cbf68" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/context - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/jaspic-providers - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/jaspic-providers - Copy.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/server - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/tomcat-users - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/tomcat-users - Copy.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/HMS/conf/web - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom - Copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/web-app_3_1 - Copy.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Appointment6DashboardDisply - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AppointmentError - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AppointmentSuccessfull - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/DocAppoinment - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/DocPatPortal - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/DoctorAppointments - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/DoctorDashboard - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/DoctorLogin - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/LogOut - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/PrecriptionAction - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Prescription - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/SearchPatientDetails - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/SuccessAppoinment - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/addAppointment - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/addAppointmentAction - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/appointment - Copy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/appointment - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/blog - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style - Copy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/doctor - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index1 - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/indexAction - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/main - Copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/patientDashboard - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/patientLogin - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/patientLoginAction - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/prescriptionsAction - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/review - Copy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/review - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/services - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/signUP - Copy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/signUPAction - Copy.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rkFUnl7GLDYPNIG3dwddg3XS13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.HMS [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.HMS [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.HMS [package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Tomcat: HMS (2).executor&quot;: &quot;Run&quot;,
+    &quot;Smart Tomcat.Tomcat: HMS.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/HMS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26374745&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Smart Tomcat.Tomcat: HMS (2)">
+    <configuration name="Tomcat: HMS (2)" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\bhumi\.SmartTomcat\HMS\HMS" />
+      <option name="contextPath" value="/HMS" />
+      <option name="docBase" value="C:\Users\bhumi\OneDrive\Desktop\HMS\HMS\src\main\webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/11.0.2" />
+          <option name="path" value="$PROJECT_DIR$/../../../../../../Program Files/Apache Software Foundation/Tomcat 11.0" />
+          <option name="version" value="11.0.2.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="HMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat: HMS" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="/HMS" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/11.0.2" />
+          <option name="path" value="$PROJECT_DIR$/../../../../../../Program Files/Apache Software Foundation/Tomcat 11.0" />
+          <option name="version" value="11.0.2.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="HMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Smart Tomcat.Tomcat: HMS (2)" />
+      <item itemvalue="Smart Tomcat.Tomcat: HMS" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="368cf469-a7ae-4650-8e89-18087f3cbf68" name="Changes" comment="" />
+      <created>1737095187551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737095187551</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1759647563112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759647563112</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1771002878528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771002878528</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+</project>
